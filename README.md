@@ -2,7 +2,6 @@
 registrationForm-php
 
 
-![Screenshot (145)](https://github.com/paraspasbola/RegistrationForm-php/assets/69096712/3b0ad9d1-ec3a-4686-a13f-cd6a095cc837)
 
-
-![Screenshot (146)](https://github.com/paraspasbola/RegistrationForm-php/assets/69096712/2a4b02f0-8314-472b-b73a-2d3ac4123c5a)
+![Screenshot (148)](https://github.com/paraspasbola/RegistrationForm-php/assets/69096712/e63ba0d0-0469-483c-8440-4877308974e8)
+![Screenshot (147)](https://github.com/paraspasbola/RegistrationForm-php/assets/69096712/c588b721-cdc6-407a-ab1a-58da8e1ed4c0)
